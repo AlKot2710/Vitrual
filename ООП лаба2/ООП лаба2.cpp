@@ -132,7 +132,7 @@ public:
 
 int main()
 {
-    SFile cock("File.txt");
+    SFile file("File.txt");
     Freq sas;
 
  
